@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Singhaditya0506
+# 👋 Hi, I’m Aditya Singh
 
 ## 👀 I’m interested in ...
 - Data analytics
@@ -8,8 +8,7 @@
 ## 🌱 I’m currently learning ...
 - Python programming
 - MySQL
-- R programming
-- Tableau
+- Power BI
 - Excel
 
 ## 💞️ I’m looking to collaborate on ...
