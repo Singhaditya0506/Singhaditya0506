@@ -1,31 +1,54 @@
-# 👋 Hi, I’m Aditya Singh
+# 👋 Hi, I'm Aditya Singh
 
-## 👀 I’m interested in ...
-- Data analytics
-- Machine learning
-- Python
+### Data Scientist | Data Analyst | Machine Learning Enthusiast
 
-## 🌱 I’m currently learning ...
-- Python programming
-- MySQL
-- Power BI
-- Excel
+I’m an M.Tech graduate with a background in Power Electronics and a strong interest in Data Science, Data Analytics, and Machine Learning. I enjoy working with data to uncover insights, build predictive models, and solve real-world problems using analytical and statistical approaches.
 
-## 💞️ I’m looking to collaborate on ...
-- Data analysis projects for beginners
-- Machine learning projects for beginners
+### 🛠️ Technical Skills
 
-## 📫 How to reach me ...
-- Email
-- LinkedIn
+* Programming: Python
+* Data Analysis: Pandas, NumPy, Excel
+* Data Visualization: Power BI, Matplotlib, Seaborn
+* Database: MySQL, SQL
+* Machine Learning: Scikit-learn, Regression, Classification, Clustering
+* Statistics: Exploratory Data Analysis, Hypothesis Testing, Statistical Modeling
 
-## 😄 Pronouns: he/him
+### 📊 What I Work On
 
-## ⚡ Fun fact: ...
-- I enjoy playing basketball and watching anime.
+* Data cleaning and exploratory data analysis
+* SQL-based data analysis
+* Interactive dashboards and business reporting
+* Machine learning and predictive modeling
+* Statistical analysis and data-driven problem solving
+* End-to-end data science projects
 
+### 🚀 Featured Projects
 
-<!---
-Singhaditya0506/Singhaditya0506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 📈 Credit Card Risk Analysis — Risk prediction and statistical analysis
+* 🛒 Retail Sales Analysis — SQL-based customer and sales insights
+* 📊 Sales & Business Dashboards — Interactive Excel and Power BI dashboards
+* 🔋 Battery State-of-Health Prediction — Machine learning research project
+* 🤖 Machine Learning Projects — Regression, classification, and predictive analytics
+
+### 🤝 Collaboration
+
+I’m open to collaborating on:
+
+* Data analytics projects
+* Machine learning projects
+* Data science case studies
+* Open-source projects involving data and AI
+
+### 📫 Connect With Me
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/aditya-singh-analytics/]
+* 📧 Email: [singhaditya110506@gmail.com]
+
+### ⚡ Beyond Data
+
+Outside of technology and research, I enjoy playing basketball and watching anime.
+
+---
+
+⭐ Feel free to explore my repositories and projects.
+I'm always interested in learning, building, and collaborating on meaningful data-driven solutions.
